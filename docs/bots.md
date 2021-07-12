@@ -9,3 +9,11 @@ The following is an alphabetical list of all of the bots we currently use and li
 - [@RoleSaver](https://top.gg/bot/526485456980934677)
 - [@SpamReactionDetection](https://github.com/nickhempsey/discord-spam-reaction-detection)
 - [@StatBot](https://docs.statbot.net/)
+- [PGRRBot](https://github.com/PokemonGO-REMOTE-RAIDERS/pgrr-bot)
+- [@DISBOARD](https://disboard.org/)
+- [@Groovy](https://groovy.bot/commands
+- [@Live Countdown](https://discord.bots.gg/bots/710486805836988507)
+- [@ModMail](https://modmail.xyz/)
+- [@ServerStats](https://serverstatsbot.com/)
+- [@SilphRoad](https://thesilphroad.com/community-leadership)
+- [@Translator](https://nvu.io/en/bots/discord-translator/)
